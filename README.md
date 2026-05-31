@@ -53,9 +53,9 @@ latam-fx-risk-monitor/
 ## Status
 
 - [x] Repository created
-- [ ] Data pipeline (Python + Frankfurter API)
-- [ ] VaR calculations
-- [ ] Power BI dashboard
+- [x ] Data pipeline (Python + Frankfurter API)
+- [x ] VaR calculations
+- [x ] Power BI dashboard
 - [ ] Methodology paper
 
 ---
